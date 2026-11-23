@@ -1,0 +1,5 @@
+RADAR DE OPORTUNIDADES - VERSAO WEB PARA IPHONE
+
+Esta versão é um protótipo responsivo para celular. Abra index.html em navegador para testar, mas para colocar como ícone no iPhone e usar de forma confiável é necessário hospedar (por exemplo GitHub Pages). Registros são guardados no armazenamento local do navegador; não sincronizam entre aparelhos.
+
+Não coleta automaticamente produtos/anúncios. Registra e organiza observações manuais.
